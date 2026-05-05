@@ -35,7 +35,7 @@ The Arduino code is available in this repository.
 ---
 
 ## 📷 Project Preview
-![Radar Project](WhatsApp Image 2026-05-05 at 12.59.45 PM.jpeg)
+![Radar Project](WhatsApp Image 2026-05-05 at 12.59.45 PM.jpg)
 
 ## 🎥 Demo Video
 [Watch Video](https://youtube.com/shorts/3vPZs-1GUSM?si=ssC5GmMnFx_0pBEw)
